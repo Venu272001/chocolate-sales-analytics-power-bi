@@ -96,8 +96,8 @@ The repository includes screenshots and a PDF export for quick viewing.
 
 | File                                                             | Description                                       |
 | ---------------------------------------------------------------- | ------------------------------------------------- |
-| [Dashboard PDF](documents/Chocolate_Sales_Dashboard.pdf)         | Static dashboard export for quick viewing         |
-| [Power BI Report (.pbix)](report/Chocolate_Sales_Dashboard.pbix) | Power BI project file for interactive exploration |
+| [Dashboard PDF](documents/Awesome%20Chocolates%20Dashboard.pdf)         | Static dashboard export for quick viewing         |
+| [Power BI Report (.pbix)](report/Awesome%20Chocolates%20Dashboard.pbix) | Power BI project file for interactive exploration |
 | [Excel Dataset](data/ac-sample-data.xlsx)                        | Source dataset used for the analysis              |
 | [Dashboard Screenshots](screenshots/)                            | Images showing the dashboard and its analysis     |
 
